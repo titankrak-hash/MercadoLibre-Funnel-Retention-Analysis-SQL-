@@ -9,6 +9,9 @@ SQL project focused on conversion funnel analysis and user retention for Mercado
 ### 📊 SQL Queries
 ➡️ **https://github.com/titankrak-hash/MercadoLibre-Funnel-Retention-Analysis-SQL-/blob/main/Pasos%20que%20se%20realizaron%20en%20SQL%20explicados/New%20Text%20Document%20(2).txt**
 
+### 📂 Excel del proyecto, informe ejecutivo. contexto, hallazgo e implicacion 
+**https://github.com/titankrak-hash/MercadoLibre-Funnel-Retention-Analysis-SQL-/raw/refs/heads/main/Proyecto%204_%20An%C3%A1lisis%20de%20embudo%20y%20retenci%C3%B3n%20para%20MercadoLibre%20-%20Resumen%20ejecutivo%20(1).xlsx**
+
 
 # Business Objective
 
